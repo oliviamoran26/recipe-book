@@ -78,7 +78,7 @@
       "servingSize": 4,
       "ingredients": [
         "2 cups Uncle Ben's long grain white rice",
-        "1 cup buglar? (grain)",
+        "1 cup buglar (grain)",
         "2 cans chicken broth",
         "4 to 5 chicken bullion cubes",
         "1 cup onion",
@@ -117,6 +117,89 @@
         "stepSix": "Brush the meatloaf with ketchup.",
         "stepSeven": "Bake the meatloaf until its center registers 160°F, 50-60 minutes.",
         "stepEight": "Rest the meatloaf for 15 minutes before slicing and serving."
+      }
+    },
+    {
+      "title": "SPICY NOODS (or Chili Oil Pasta)",
+      "chef": "Sophia Moran",
+      "prepTime": 15,
+      "cookTime": 30,
+      "servingSize": 2,
+      "ingredients": [
+        "1 head of broccoli",
+        "1 package of thin sliced chicken breast",
+        "Angel hair pasta",
+        "5 garlic cloves minced",
+        "1/2 tablespoon butter",
+        "2 tablespoons chili oil",
+        "2 tablespoons soy sauce",
+        "2 tablespoons honey",
+        "2 tablespoons sweet thai sauce",
+        "1/2 cup grated parmesan"
+      ],
+      "instructions": {
+        "stepOne": "Cook broccoli desired (I throw in air fryer - top with desired seasonings).",
+        "stepTwo": "Dice chicken breast, then cook desired (I pan fry mine - top with desired seasonings).",
+        "stepThree": "Boil your pasta.",
+        "stepFour": "For the sauce: combine chili oil, honey, soy sauce, and sweet thai chili and then set aside.",
+        "stepFive": "Once angel hair is cooked, drain her and set aside In same pot used to cook pasta, throw in the sauce and let it boil.",
+        "stepSix": "Once boiling, turn heat off and throw in pasta.",
+        "stepSeven": "Mix all together.",
+        "stepEight": "Plate the pasta and top with diced chicken and broccoli. Top with LOTS of parm (like covering whole everything)."
+      }
+    },
+    {
+      "title": "Chicken Fajitas",
+      "chef": "Lucas Conrad-Loew",
+      "prepTime": 10,
+      "cookTime": 10,
+      "servingSize": 2,
+      "ingredients": [
+        "2 chicken breasts",
+        "Flour tortillas",
+        "Three cheese blend",
+        "1 lime",
+        "Cumin",
+        "Paprika",
+        "Salt",
+        "Pepper",
+        "Olive oil"
+      ],
+      "instructions": {
+        "stepOne": "Dice chicken & add olive oil to pan.",
+        "stepTwo": "Add chicken to pan, add salt, pepper, cumin, and paprika.",
+        "stepThree": "Cook on medium heat for 5-8 minutes.",
+        "stepFour": "Remove chicken, leaving any leftover liquid in the pan.",
+        "stepFive": "Put tortilla into pan and add cheese. Wait until cheese melts.",
+        "stepSix": "Add chicken to torilla and add lime juice.",
+        "stepSeven": "Eat!"
+      }
+    },
+    {
+      "title": "Mediterranean Shrimp and Couscous",
+      "chef": "Callyn Birchmeier",
+      "prepTime": 20,
+      "cookTime": 20,
+      "servingSize": 3,
+      "ingredients": [
+        "8 oz. Israli couscous",
+        "8 oz. shrimp peeled and deveined",
+        "1 lemon",
+        "Paprika",
+        "Oregano",
+        "Garlic powder",
+        "1/4 cup feta",
+        "2 persian cucumbers",
+        "1/2 cup cherry tomatoes halved",
+        "Olive oil",
+        "Fresh mint"
+      ],
+      "instructions": {
+        "stepOne": "Cook 8 oz couscous according to package instructions.",
+        "stepTwo": "In a bowl, season shrimp with 1 tablespoon paprika, 1 tablespoon oregano, 1 tablespoon garlic powder, the juice of 1/2 lemon, salt and pepper.",
+        "stepThree": "Pan fry shrimp on medium heat for 2 minutes on each side or until shrimp is fully cooked through.",
+        "stepFour": "Add shrimp, couscous, cucumber, tomatoes, 3-4 tablespoons fresh mint, and feta to a large mixing bowl.",
+        "stepFive": "Drizzle with the juice of 1/2 lemon, 3 tablespoons of olive oil, salt and pepper to taste."
       }
     }
   ]
