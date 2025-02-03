@@ -47,7 +47,7 @@
       "chef": "Kim Moran (Mom)",
       "prepTime": 20,
       "cookTime": 50,
-      "servingSize": 10,
+      "servingSize": 8,
       "ingredients": [
         "1/2 cup shortening",
         "3/4 cup sugar",
@@ -57,10 +57,10 @@
         "1 teaspoon baking powder",
         "1 teaspoon baking soda",
         "1 cup sour cream",
-        "6 tablespoons soft butter",
-        "1 cup firmly packed brown sugar",
-        "2 teaspoons cinnamon",
-        "1 cup chopped walnuts"
+        "6 tablespoons soft butter (for topping)",
+        "1 cup firmly packed brown sugar (for topping)",
+        "2 teaspoons cinnamon (for topping)",
+        "1 cup chopped walnuts (for topping)"
       ],
       "instructions": {
         "stepOne": "Cream together: shortening, sugar, vanilla thoroughly. Add 1 egg at a time to the mixture and beat well.",
@@ -200,6 +200,189 @@
         "stepThree": "Pan fry shrimp on medium heat for 2 minutes on each side or until shrimp is fully cooked through.",
         "stepFour": "Add shrimp, couscous, cucumber, tomatoes, 3-4 tablespoons fresh mint, and feta to a large mixing bowl.",
         "stepFive": "Drizzle with the juice of 1/2 lemon, 3 tablespoons of olive oil, salt and pepper to taste."
+      }
+    },
+    {
+      "title": "Beatty’s Chocolate Cake",
+      "chef": "Annie Karsten",
+      "prepTime": 20,
+      "cookTime": 35,
+      "servingSize": 8,
+      "ingredients": [
+        "1 3/4 cups all-purpose flour",
+        "2 cups sugar",
+        "3/4 cups good cocoa powder, such as Valrhona",
+        "2 teaspoons baking soda",
+        "1 teaspoon baking powder",
+        "1 teaspoon kosher salt",
+        "1 cup buttermilk, shaken",
+        "1/2 cup vegetable oil",
+        "2 extra-large eggs, at room temp",
+        "1 teaspoon pure vanilla extract",
+        "1 cup freshly brewed hot coffee",
+        "6 oz. good semisweet chocolate, such as Valrhona (for frosting)",
+        "2 sticks unsalted butter, at room temp (for frosting)",
+        "1 extra-large egg yolk, at room temp (for frosting)",
+        "1 teaspoon pure vanilla extract (for frosting)",
+        "1 1/4 cups sifted confectioners' sugar (for frosting)",
+        "1 tablespoon instant coffee granules, such as Nescafe (for frosting)"
+      ],
+      "instructions": {
+        "stepOne": "Preheat the oven to 350 degrees. Butter two 8-inch round cake pans. Line with parchment paper, then butter and flour the pans.",
+        "stepTwo": "Sift the flour, sugar, cocoa, baking soda, baking powder, and salt into the bowl of an electric mixer fitted with the paddle attachment and mix on low speed until combined. In another bowl, combine the buttermilk, oil, eggs, and vanilla. With the mixer on low speed, slowly add the wet ingredients to the dry ones. With mixer still on low, add the coffee and stir just to combine, scraping the bottom of the bowl with a rubber spatula. Pour the batter evenly into the prepared pans and bake for 35 to 40 minutes, until a cake tester comes out clean. Cool in the pans for 30 minutes, then turn them out onto a cooling rack and cool completely. (Not to worry; the top will sink a little in the center.)",
+        "stepThree": "Place one layer, flat side up, on a flat plate or cake pedestal. With a knife or offset spatula, spread a thin layer of buttercream on the top only. Place the second layer on top, flat side up, and spread the frosting evenly first on the sides and then on the top of the cake. Cut in wedges and serve at room temperature.",
+        "stepFour": "For the chocolate buttercream frosting, chop the chocolate and place it in a heatproof bowl over a pan over simmering water. Stir until just melted and set aside until cooled to room temperature.",
+        "stepFive": "Beat the butter in the bowl of an electric mixer fitted with the paddle attachment on medium-high speed until light yellow and fluffy, about 3 minutes. Add the egg yolk and vanilla and continue beating for 3 minutes. Turn the mixer to low, gradually add the confectioners’ sugar, then beat at medium speed, scraping down the bowl as necessary, until smooth and creamy. Dissolve the coffee in 2 teaspoons of the hottest tap water. On low speed, add the chocolate and coffee to the butter mixture and mix until blended. Don’t whip! Spread immediately on the cooled cake."
+      }
+    },
+    {
+      "title": "Spanakopita",
+      "chef": "Ashley Sayers",
+      "prepTime": 20,
+      "cookTime": 35,
+      "servingSize": 8,
+      "ingredients": [
+        "4 packs frozen chopped spinach",
+        "1 1/2 lbs. large curd cottage cheese",
+        "7 eggs",
+        "1/2 cup olive oil",
+        "1/4 lb. butter (1 stick)",
+        "1 teaspoon dill",
+        "1/2 cup parsley",
+        "1 bunch green onions (6 or 7)",
+        "1 small dry onion",
+        "1 lb. feta cheese",
+        "1 lb. filo (14 sheets)",
+        "Pecorino romano"
+      ],
+      "instructions": {
+        "stepOne": "7 pastry sheets in 9x13 pan, butter between sheets.",
+        "stepTwo": "Drain spinach, squeeze dry.",
+        "stepThree": "Chop feta. Mix feta, cottage cheese and spinach.",
+        "stepFour": "Separate eggs, blend yolks, add oil, onion, parsley, and dill. Pour over spinach.",
+        "stepFive": "Fold egg whites into mixture. Put mixture in pan and sprinke pecorino romano on top.",
+        "stepSix": "Top with 7 sheets filo brushed with butter. Slice half way down before baking.",
+        "stepSeven": "Bake at 350 degrees for 1 hour or longer until brown.",
+        "stepEight": "Let cool."
+      }
+    },
+    {
+      "title": "The Best Chocolate Chip Cookies",
+      "chef": "Habibah Sanusi",
+      "prepTime": 15,
+      "cookTime": 10,
+      "servingSize": 15,
+      "ingredients": [
+        "3/4 cup unsalted butter",
+        "1 cup brown sugar, packed",
+        "1/4 cup granulated sugar",
+        "1 egg + 1 yolk, room temp",
+        "1 tablespoon pure vanilla extract",
+        "1 3/4 cup all-purpose flour",
+        "3/4 teaspoon baking soda",
+        "3/4 teaspoon kosher salt + more flaky sea salt for sprinkling",
+        "1 1/2 cups semi sweet chocolate, chopped"
+      ],
+      "instructions": {
+        "stepOne": "Brown the butter over medium heat, stirring constantly until the butter begins to foam and turns a golden brown, emitting a nutty aroma. Make sure you only brown the butter lightly. When butter browns the liquid evaporates off which can dry out your dough. As soon as the butter starts to turn brown and smell nutty, take it off the heat to prevent any more liquid from escaping.  Take butter off the heat and allow to cool.",
+        "stepTwo": "In a large mixing bowl combine the cooled brown butter, brown sugar, and white sugar. Beat until mixed together. Add in the egg, egg yolk, and vanilla extract. Mix well.",
+        "stepThree": "In separate bowl mix together the flour, salt and baking soda. Mix half the dry ingredients into the wet until everything comes together. Slowly add in the remaining flour a little bit at a time, stopping if the dough starts to get too dry. Fold in the chocolate. Do not over mix.",
+        "stepFour": "Refrigerate the cookie dough for at least a half hour, or overnight.",
+        "stepFive": "When you are ready to bake the cookies, preheat the oven to 350°F and line a cookie sheet with parchment paper. Use a 1.5  or 2 ounce cookie scoop to scoop the cookie dough out into balls, placing them 2 inches apart on the prepared sheet. Bake for 11 minutes*, or until the edges are just golden brown and the centers have puffed up but are still gooey.",
+        "stepSix": "Allow to cool before eating!"
+      }
+    },
+    {
+      "title": "Homemade Vegan Lasagna",
+      "chef": "Lisa Reynolds",
+      "prepTime": 20,
+      "cookTime": 40,
+      "servingSize": 5,
+      "ingredients": [
+        "1-2 package of lasagna noodles",
+        "2 jars marinara sauce",
+        "2 tablespoons water",
+        "Vegan parmesan for topping",
+        "1 16 oz. package firm tofu",
+        "3 tablespoons nutritional yeast",
+        "1/2 cup fresh basil",
+        "1 tablespoon dried oregano",
+        "2 lemons juiced",
+        "1/2 teaspoon salt"
+      ],
+      "instructions": {
+        "stepOne": "Preheat oven to 375 degrees.",
+        "stepTwo": "Prepare the tofu ricotta by tofu, nutritional yeast, fresh basil, oregano, lemons, and salt into the food processor. Blend until creamy and well combined.",
+        "stepThree": "Prep the bottom of a baking dish (9x12 will work) by adding about 1/2 cup marinara sauce to the bottom of the pan and 2 tbsp water. Spread it around evenly.",
+        "stepFour": "Add a layer of 4 lasagna noodles (or however many you can fit). Next, add about 2 tbsp of ricotta cheese to each noodle. Add some marinara sauce and spread around - be generous. Add another layer of pasta and repeat this process until you run out of ricotta cheese.",
+        "stepFive": "Top with vegan parmesan and cover with foil. Bake for 40 minutes covered and 15 minutes uncovered.",
+        "stepSix": "Serve and enjoy!"
+      }
+    },
+    {
+      "title": "Instant Pot Shredded Chicken Tacos",
+      "chef": "Nick Clark & Dakota Selmi",
+      "prepTime": 15,
+      "cookTime": 45,
+      "servingSize": 5,
+      "ingredients": [
+        "1 tablespoon extra-virgin olive oil",
+        "2 pounds boneless, skinless chicken breasts",
+        "2 teaspoons kosher salt",
+        "1/2 teaspoon ground black pepper",
+        "1 small yellow onion",
+        "4 cloves garlic",
+        "2 teaspoons chili powder",
+        "3 chipotle peppers in adobo",
+        "1 can diced tomatoes in their juices (14 oz.)",
+        "1/4 cup freshly squeezed lime juice",
+        "1 ripe avocado (for avocado sauce)",
+        "3/4 cup nonfat plain Greek yogurt (for avocado sauce)",
+        "2-4 tablespoons fresh lime juice (for avocado sauce)",
+        "1/4 teaspoon kosher salt (for avocado sauce)",
+        "Tortilla or taco shell of your choice"
+      ],
+      "instructions": {
+        "stepOne": "Season both sides of the chicken with 1 teaspoon kosher salt and black pepper.",
+        "stepTwo": "Set the Instant Pot to sauté. Heat 1/2 tablespoon of the olive oil. Once hot and shimmering, add half the chicken and sear both sides for 2 to 3 minutes each, just until brown (the chicken does not need to be cooked through). Do not disturb the chicken while each side sears.  Remove to a plate and set aside. Add the second half of the chicken and sear each side for 2 to 3 minutes each. Remove to the same plate.",
+        "stepThree": "With the Instant Pot still on sauté, add the remaining 1/2 tablespoon olive oil. Add the onion, garlic, chili powder, and remaining 1/2 teaspoon kosher salt. Let cook 3 minutes, until the onion beings to soften. Turn the Instant Pot off (on my model, I hit CANCEL). Stir in the chipotle peppers, tomatoes, and reserved chicken. Arrange the chicken pieces in a single layer (a little overlap is OK, and the chicken will be touching). Pour the lime juice over the top.",
+        "stepFour": "Lock the lid in place. Cook on manual pressure for 8 minutes. As soon as the time is up, vent immediately. Once you can open the lid, turn the Instant Pot off, and then remove the chicken to a large bowl or plate. Turn the Instant Pot to SAUTE. Bring the cooking liquid to a simmer. Let simmer for 5 to 10 minutes, stirring occasionally, until the liquid reduces by about half. Meanwhile, shred the chicken with two forks (or, once it is cool enough, your fingers).",
+        "stepFive": "Once the liquid is reduced, turn the Instant Pot off, return the chicken into the Instant Pot, and then stir the chicken to coat in the sauce.",
+        "stepSix": "Prepare the avocado sauce (I like to do this while the chicken is pressure cooking): In a food processor, blend together the avocado, Greek yogurt, 2 tablespoons lime juice, and salt until smooth. Taste and add additional salt or lime juice as desired.",
+        "stepSeven": "To serve: Fill the shells or tortillas with the chicken, drizzle with avocado sauce, and add any desired toppings. Enjoy immediately."
+      }
+    },
+    {
+      "title": "Instant Pot Shredded Chicken Tacos",
+      "chef": "Nick Clark & Dakota Selmi",
+      "prepTime": 15,
+      "cookTime": 45,
+      "servingSize": 5,
+      "ingredients": [
+        "1 tablespoon extra-virgin olive oil",
+        "2 pounds boneless, skinless chicken breasts",
+        "2 teaspoons kosher salt",
+        "1/2 teaspoon ground black pepper",
+        "1 small yellow onion",
+        "4 cloves garlic",
+        "2 teaspoons chili powder",
+        "3 chipotle peppers in adobo",
+        "1 can diced tomatoes in their juices (14 oz.)",
+        "1/4 cup freshly squeezed lime juice",
+        "1 ripe avocado (for avocado sauce)",
+        "3/4 cup nonfat plain Greek yogurt (for avocado sauce)",
+        "2-4 tablespoons fresh lime juice (for avocado sauce)",
+        "1/4 teaspoon kosher salt (for avocado sauce)",
+        "Tortilla or taco shell of your choice"
+      ],
+      "instructions": {
+        "stepOne": "Season both sides of the chicken with 1 teaspoon kosher salt and black pepper.",
+        "stepTwo": "Set the Instant Pot to sauté. Heat 1/2 tablespoon of the olive oil. Once hot and shimmering, add half the chicken and sear both sides for 2 to 3 minutes each, just until brown (the chicken does not need to be cooked through). Do not disturb the chicken while each side sears.  Remove to a plate and set aside. Add the second half of the chicken and sear each side for 2 to 3 minutes each. Remove to the same plate.",
+        "stepThree": "With the Instant Pot still on sauté, add the remaining 1/2 tablespoon olive oil. Add the onion, garlic, chili powder, and remaining 1/2 teaspoon kosher salt. Let cook 3 minutes, until the onion beings to soften. Turn the Instant Pot off (on my model, I hit CANCEL). Stir in the chipotle peppers, tomatoes, and reserved chicken. Arrange the chicken pieces in a single layer (a little overlap is OK, and the chicken will be touching). Pour the lime juice over the top.",
+        "stepFour": "Lock the lid in place. Cook on manual pressure for 8 minutes. As soon as the time is up, vent immediately. Once you can open the lid, turn the Instant Pot off, and then remove the chicken to a large bowl or plate. Turn the Instant Pot to SAUTE. Bring the cooking liquid to a simmer. Let simmer for 5 to 10 minutes, stirring occasionally, until the liquid reduces by about half. Meanwhile, shred the chicken with two forks (or, once it is cool enough, your fingers).",
+        "stepFive": "Once the liquid is reduced, turn the Instant Pot off, return the chicken into the Instant Pot, and then stir the chicken to coat in the sauce.",
+        "stepSix": "Prepare the avocado sauce (I like to do this while the chicken is pressure cooking): In a food processor, blend together the avocado, Greek yogurt, 2 tablespoons lime juice, and salt until smooth. Taste and add additional salt or lime juice as desired.",
+        "stepSeven": "To serve: Fill the shells or tortillas with the chicken, drizzle with avocado sauce, and add any desired toppings. Enjoy immediately."
       }
     }
   ]
