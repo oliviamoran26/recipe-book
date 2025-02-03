@@ -14,6 +14,11 @@ const MainContent = (props) => {
           stepOne={recipes.instructions.stepOne}
           stepTwo={recipes.instructions.stepTwo}
           stepThree={recipes.instructions.stepThree}
+          stepFour={recipes.instructions.stepFour}
+          stepFive={recipes.instructions.stepFive}
+          stepSix={recipes.instructions.stepSix}
+          stepSeven={recipes.instructions.stepSeven}
+          stepEight={recipes.instructions.stepEight}
         />
       ))}
     </div>

@@ -65,7 +65,58 @@
       "instructions": {
         "stepOne": "Cream together: shortening, sugar, vanilla thoroughly. Add 1 egg at a time to the mixture and beat well.",
         "stepTwo": "Sift the flour, baking powder, and baking soda together. Add the dry ingredients and alternatively add the sour cream to the creamed mixture. Mix well.",
-        "stepThree": "Spread half of batter in a 10 inch (removable) tube pan that has been greased and lined on the bottom with wax paper."
+        "stepThree": "Spread half of batter in a 10 inch (removable) tube pan that has been greased and lined on the bottom with wax paper.",
+        "stepFour": "Cream butter, brown sugar and cinnamon together. Add the nuts and mix well. Sprinkle half of this mixture over the batter in then add the remaining cake batter. Sprinkle the remaining topping.",
+        "stepFive": "Bake at 350 degrees for 50 minutes."
+      }
+    },
+    {
+      "title": "Rice Pilaf",
+      "chef": "Deralyn Moran (Grandma",
+      "prepTime": 10,
+      "cookTime": 45,
+      "servingSize": 4,
+      "ingredients": [
+        "2 cups Uncle Ben's long grain white rice",
+        "1 cup buglar? (grain)",
+        "2 cans chicken broth",
+        "4 to 5 chicken bullion cubes",
+        "1 cup onion",
+        "Half box vermicelli",
+        "Butter"
+      ],
+      "instructions": {
+        "stepOne": "Butter, onion, take vermicelli, half box, break into small pieces, cook on medium heat until vermicelli is browned. Add rice, bulgar, add broth, about 1 inch above rice line. Add 4-5 bullion cubes.",
+        "stepTwo": "Reduce heat to low, simmer for 20-25 minutes."
+      }
+    },
+    {
+      "title": "Perfect Keto Meatloaf",
+      "chef": "Kevin Moran (Dad)",
+      "prepTime": 15,
+      "cookTime": 50,
+      "servingSize": 8,
+      "ingredients": [
+        "1 large egg",
+        "2 teaspoons salt",
+        "1/2 teaspoon black pepper",
+        "2 teaspoons garlic powder",
+        "2 teaspoons onion powder",
+        "1/2 teaspoon dried thyme",
+        "2 pounds lean ground beef",
+        "1/2 cup almond flour",
+        "1/2 cup parmesan- grated",
+        "1/4 cup unsweetened ketchup"
+      ],
+      "instructions": {
+        "stepOne": "Preheat your oven to 350°F. Line a rimmed sheet pan with foil.",
+        "stepTwo": "In a large bowl, whisk the egg, salt, pepper, garlic powder, onion powder, and thyme.",
+        "stepThree": "Add the ground beef, almond flour, and Parmesan. Gently mix, just until uniform.",
+        "stepFour": "Shape the mixture into a rectangular loaf by packing it into a plastic wrap-lined small loaf pan (8 X 4 inches).",
+        "stepFive": "Transfer it to the prepared baking sheet.",
+        "stepSix": "Brush the meatloaf with ketchup.",
+        "stepSeven": "Bake the meatloaf until its center registers 160°F, 50-60 minutes.",
+        "stepEight": "Rest the meatloaf for 15 minutes before slicing and serving."
       }
     }
   ]
