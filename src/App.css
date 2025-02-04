@@ -15,7 +15,7 @@ body {
 nav {
   display: flex;
   flex-direction: row;
-  align-items: center;
+  align-items: normal;
   background-color: #a5a990;
   height: 8vh;
   justify-content: center;
@@ -24,12 +24,16 @@ nav {
 nav div {
   font-size: 30px;
   color: black;
+  padding-top: 10px;
 }
 
-.search-bar {
+/* .search-bar {
   font-size: 20px;
   color: black;
-}
+  display: flex;
+  align-items: end;
+  width: fit-content;
+} */
 
 /* #root {
   font-size: 10px;
@@ -80,3 +84,11 @@ nav div {
   margin-left: 15px;
   margin-bottom: 10px;
 }
+
+/* #stamps {
+  display: flex;
+  max-height: 200px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  align-content: end;
+} */
