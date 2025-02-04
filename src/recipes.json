@@ -628,6 +628,65 @@
         "stepThree": "While chicken cooks, place yogurt in a small bowl. Grate garlic over yogurt and season to taste with salt and pepper.",
         "stepFour": "To serve, spoon yogurt over chicken and vegetables in the pan. Scatter arugula and dill over mixture. Drizzle with oil and lemon juice and serve."
       }
+    },
+    {
+      "title": "Orange Chocolate Scones",
+      "chef": "Olivia Moran",
+      "prepTime": 20,
+      "cookTime": 12,
+      "servingSize": 8,
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "5 tablespoons sugar",
+        "1 tablespoon baking powder",
+        "1/2 teaspoon salt",
+        "1 teaspoon vanilla extract",
+        "1/2 teaspoon orange extract",
+        "zest of 1 naval orange",
+        "1/2 teaspoon lemon zest (from 1/2 lemon)",
+        "Juice from 1/2 of fresh orange, or 1/4 cup of orange juice",
+        "6 tablespoon chilled unsalted butter, cut into small pieces",
+        "2 oz. baby arugula",
+        "2/3 cup half-and-half, plus 1 tbsp.",
+        "1/2 cup chocolate chips"
+      ],
+      "instructions": {
+        "stepOne": "Preheat oven to 425 degrees.",
+        "stepTwo": "In a bowl, whisk together flour, baking powder, sugar, orange zest, and salt. ",
+        "stepThree": "Cut in butter with a pastry blender or two knives until the mixture resembles coarse crumbs.",
+        "stepFour": "Stir in 2/3 cup half-and-half, juice of half an orange, orange extract, vanilla extract, and chocolate chips until just moistened.",
+        "stepFive": "On a lightly floured surface, knead dough gently 5 to 10 times. Pat into a 1-inch-thick disc.",
+        "stepSix": "Cut dough into 8 wedges with a bench scraper; place on a parchment-lined baking sheet.",
+        "stepSeven": "Brush tops with 1 Tbsp half-and-half, sprinkle each with sugar, and a pinch of orange zest.",
+        "stepEight": "Bake in the 425-degree oven and cook for 12-15 minutes, until golden brown. Let cool on a wire rack."
+      }
+    },
+    {
+      "title": "Chocolate Rum Cake",
+      "chef": "Alice Mishler",
+      "prepTime": 30,
+      "cookTime": 55,
+      "servingSize": 8,
+      "ingredients": [
+        "1 box yellow cake mix (18.5 oz.)",
+        "1 box instant chocolate pudding (4.5 oz.)",
+        "1 teaspoon vanilla",
+        "4 tablespoons rum (light or dark)",
+        "1 cup of sour cream",
+        "1/4 cup vegetable oil",
+        "4 eggs, room temp",
+        "1 cup chocolate chips (divide in half)",
+        "1 cup of chopped walnuts (divide in half)",
+        "Confectioners' sugar and sifter",
+        "Optional: whipped cream, vanilla ice cream"
+      ],
+      "instructions": {
+        "stepOne": "Preheat oven to 350 degrees.",
+        "stepTwo": "In a large bowl with a mixer (medium speed), thoroughly combine the cake mix, pudding, vanilla, sour cream, eggs, rum, and oil.",
+        "stepThree": "Add half of the chocolate chips and half of the walnuts and mix for 5 minutes on medium speed. Fold in remaining chocolate chips and walnuts with a spatula.",
+        "stepFour": "Grease the bundt pan with butter or spray. Pour the mixture into the pan and bake at 350 degrees for 50-55 minutes.",
+        "stepFive": "Remove from the oven and allow to cool for 30 minutes before turning upside down to remove onto a plate. Once completely cool, sift the confectioners' sugar on top of the cake. Serve with whipped cream or vanilla ice cream if desired."
+      }
     }
   ]
 }
