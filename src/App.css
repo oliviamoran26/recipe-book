@@ -1,12 +1,15 @@
 @font-face {
-  font-family: typeWriterFont;
-  src: url(My-Underwood-fontfacekit);
+  font-family: 'my_underwoodregular';
+  src: url('MyUnderwood-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
 
 body {
   margin: 0;
   box-sizing: border-box;
   background-image: url('https://i.pinimg.com/originals/9a/3c/d2/9a3cd2269473e519aa090e1e6cd9092f.png');
+  font-family: 'my_underwoodregular';
 }
 
 nav {
@@ -20,11 +23,10 @@ nav {
 
 nav div {
   font-size: 30px;
-  font-family: typeWriterFont;
   color: black;
 }
 
-#root {
+/* #root {
   font-size: 10px;
   font-style: italic;
   padding-left: 20px;
@@ -34,25 +36,36 @@ nav div {
   margin: 17%;
   margin-block-start: 100px;
   margin-block-end: 100px;
+} */
+
+.main-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 10px;
 }
 
 .recipeCard {
   background-image: url(https://i.pinimg.com/736x/88/2a/4d/882a4d2eedbd5e087c8b96e8935ab521.jpg);
-  object-fit: fill;
-  min-height: 490px;
-  min-width: 750px;
+  object-fit: cover;
+  height: 490px;
+  width: 750px;
   display: flex;
+  margin: 10px;
+  font-size: 10px;
 }
 
 .left,
 .right {
-  min-height: 490px;
+  max-height: 490px;
+  overflow: auto;
+  padding: 10px;
 }
 
 .left {
-  width: 65%;
+  width: 63%;
 }
 
 .right {
-  width: 35%;
+  width: 37%;
 }
