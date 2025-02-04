@@ -353,36 +353,122 @@
       }
     },
     {
-      "title": "Instant Pot Shredded Chicken Tacos",
-      "chef": "Nick Clark & Dakota Selmi",
-      "prepTime": 15,
-      "cookTime": 45,
-      "servingSize": 5,
+      "title": "Nashville Hot Chicken Sandwich",
+      "chef": "Ciara Flynn",
+      "prepTime": 20,
+      "cookTime": 40,
+      "servingSize": 4,
       "ingredients": [
-        "1 tablespoon extra-virgin olive oil",
-        "2 pounds boneless, skinless chicken breasts",
-        "2 teaspoons kosher salt",
-        "1/2 teaspoon ground black pepper",
-        "1 small yellow onion",
-        "4 cloves garlic",
-        "2 teaspoons chili powder",
-        "3 chipotle peppers in adobo",
-        "1 can diced tomatoes in their juices (14 oz.)",
-        "1/4 cup freshly squeezed lime juice",
-        "1 ripe avocado (for avocado sauce)",
-        "3/4 cup nonfat plain Greek yogurt (for avocado sauce)",
-        "2-4 tablespoons fresh lime juice (for avocado sauce)",
-        "1/4 teaspoon kosher salt (for avocado sauce)",
-        "Tortilla or taco shell of your choice"
+        "4 potato buns",
+        "1/4 cup cole slaw",
+        "16 pickle chips",
+        "4 boneless, skinless chicken thighs",
+        "2 cups all purpose flour (flour mixture)",
+        "1 tablespoon garlic salt (flour mixture)",
+        "1 tablespoon paprika (flour mixture)",
+        "1/2 tablespoon cayenne pepper (flour mixture)",
+        "1/2 teaspoon pepper (flour mixture)",
+        "2 eggs (egg mixture)",
+        "1 cup buttermilk (egg mixture)",
+        "2 tablespoon hot sauce (egg mixture)",
+        "1 tablespoon cayenne pepper (spicy oil mixture)",
+        "1 tablespoon garlic powder (spicy oil mixture)",
+        "1 tablespoon paprika (spicy oil mixture)",
+        "1/2 tablespoon chili powder (spicy oil mixture)",
+        "1/2 tablespoon salt (spicy oil mixture)",
+        "1 teaspoon black pepper (spicy oil mixture)",
+        "2 tablespoon light brown sugar (spicy oil mixture)",
+        "1 cup frying oil"
       ],
       "instructions": {
-        "stepOne": "Season both sides of the chicken with 1 teaspoon kosher salt and black pepper.",
-        "stepTwo": "Set the Instant Pot to sauté. Heat 1/2 tablespoon of the olive oil. Once hot and shimmering, add half the chicken and sear both sides for 2 to 3 minutes each, just until brown (the chicken does not need to be cooked through). Do not disturb the chicken while each side sears.  Remove to a plate and set aside. Add the second half of the chicken and sear each side for 2 to 3 minutes each. Remove to the same plate.",
-        "stepThree": "With the Instant Pot still on sauté, add the remaining 1/2 tablespoon olive oil. Add the onion, garlic, chili powder, and remaining 1/2 teaspoon kosher salt. Let cook 3 minutes, until the onion beings to soften. Turn the Instant Pot off (on my model, I hit CANCEL). Stir in the chipotle peppers, tomatoes, and reserved chicken. Arrange the chicken pieces in a single layer (a little overlap is OK, and the chicken will be touching). Pour the lime juice over the top.",
-        "stepFour": "Lock the lid in place. Cook on manual pressure for 8 minutes. As soon as the time is up, vent immediately. Once you can open the lid, turn the Instant Pot off, and then remove the chicken to a large bowl or plate. Turn the Instant Pot to SAUTE. Bring the cooking liquid to a simmer. Let simmer for 5 to 10 minutes, stirring occasionally, until the liquid reduces by about half. Meanwhile, shred the chicken with two forks (or, once it is cool enough, your fingers).",
-        "stepFive": "Once the liquid is reduced, turn the Instant Pot off, return the chicken into the Instant Pot, and then stir the chicken to coat in the sauce.",
-        "stepSix": "Prepare the avocado sauce (I like to do this while the chicken is pressure cooking): In a food processor, blend together the avocado, Greek yogurt, 2 tablespoons lime juice, and salt until smooth. Taste and add additional salt or lime juice as desired.",
-        "stepSeven": "To serve: Fill the shells or tortillas with the chicken, drizzle with avocado sauce, and add any desired toppings. Enjoy immediately."
+        "stepOne": "Salt and pepper your thighs and refrigerate for 30 mins.",
+        "stepTwo": "Dredge your boneless thighs in your egg mixture, then your flour mixture and repeat once more.",
+        "stepThree": "Fry for 10 minutes (or until golden brown). Set aside to dry.",
+        "stepFour": "Make your spicy oil using 1 cup of hot oil. Coat each piece of fried chicken in your spicy oil.",
+        "stepFive": "Toast your buns and add one piece of chicken, 4 pickle, and a scoop of cole slaw."
+      }
+    },
+    {
+      "title": "Homemade Vodka Pasta",
+      "chef": "Izzy McMullen",
+      "prepTime": 10,
+      "cookTime": 20,
+      "servingSize": 2,
+      "ingredients": [
+        "1 box of pasta (penne or rigatoni)",
+        "Olive oil",
+        "Salt & pepper",
+        "Garlic salt",
+        "1 stick of butter",
+        "1 small carton of heavy whipping cream",
+        "1 lemon",
+        "1 small can of tomato paste",
+        "3-4 cloves of minced garlic",
+        "Add chopped red onion if you'd like",
+        "Shredded or chunk mozzarella",
+        "Basil"
+      ],
+      "instructions": {
+        "stepOne": "Before you start the sauce boil water w dash of salt.",
+        "stepTwo": "Take a pan and add a swirl of olive oil with minced garlic and onion - heat until garlic almost turns brown.",
+        "stepThree": "Add in full can of tomato paste and mix.",
+        "stepFour": "Pour in 3/4 of the heavy whipping cream. Mix until it bubbles.",
+        "stepFive": "Squeeze half a lemon and a few chunks of butter.",
+        "stepSix": "My sister adds shredded mozzarella in there but I do on top.",
+        "stepSeven": "Add in the rest of heavy whipping cream & more butter if you would like more creamy.",
+        "stepEight": "KEEP SOME OF BOILED WATER BEFORE YOU DRAIN!!! It helps the noodles stick to sauce. I use a coffee mug and fill 1/4 of way and pour right into sauce before noodles.",
+        "stepNine": "Drain noodles and mix! Top with mozzarella chunks and Basil."
+      }
+    },
+    {
+      "title": "Taco Pie",
+      "chef": "Audra Healey",
+      "prepTime": 10,
+      "cookTime": 20,
+      "servingSize": 5,
+      "ingredients": [
+        "1 tube Pillsbury crescent dough",
+        "1 lb. lean ground beef",
+        "1 packet taco season mix",
+        "1 cup shredded cheese",
+        "Sour cream",
+        "1/4 cup onions",
+        "1/4 cup olives",
+        "Doritos",
+        "Shredded lettuce for topping",
+        "Chopped tomatoes for topping",
+        "Taco sauce for topping"
+      ],
+      "instructions": {
+        "stepOne": "Brown 1 lb. lean beef in pan. Use 1/2 taco seasoning packet and 1/3 - 1/2 of suggested water. Drain any grease (if you want additional flavor add onion and chopped olives and cook with the beef).",
+        "stepTwo": "Using crescent roll dough, line a pie pan (glass or metal is fine) creating a pie crust.",
+        "stepThree": "Crush enough Doritos to line the bottom of the pie crust. This helps create a moisture barrier so that your crust cooks and doesn't get soggy.",
+        "stepFour": "Add cooked beef mixture.",
+        "stepFive": "On top of beef mixture, spread a fine layer of sour cream (avoiding edges of crust).",
+        "stepSix": "Sprinkle a cup (or more if desired) of shredded cheese on top of sour cream.",
+        "stepSeven": "Cook at 375 degrees for 11-13 minutes. Last 5 minutes add crushed Doritos to the top layer."
+      }
+    },
+    {
+      "title": "Spinny Feta Scramble",
+      "chef": "Natalie Peterson",
+      "prepTime": 4,
+      "cookTime": 15,
+      "servingSize": 1,
+      "ingredients": [
+        "Frozen hash brown or piece of toast",
+        "2 eggs",
+        "1 tablespoon feta",
+        "Handful of spinach",
+        "Butter",
+        "Salt & pepper"
+      ],
+      "instructions": {
+        "stepOne": "I always enjoy a hash brown with this recipe, so to start I begin by throwing my hash brown patty into the air fryer for about 12 minutes.",
+        "stepTwo": "Next I pull out the butter, eggs, spinach, and feta.",
+        "stepThree": "Crack and whisk two eggs together in a small bowl to scramble, add salt and pepper In a small pan melt the butter down and throw a handful of spinach in to sauté.",
+        "stepFour": "Just as the spinach is welting down, add in the feta cheese, let melt for about 20 seconds and then add whisked eggs.",
+        "stepFive": "Lastly scramble the spinach and feta into the eggs, serve overtop your hash brown or buttered toast and enjoy!"
       }
     }
   ]

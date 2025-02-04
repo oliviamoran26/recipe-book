@@ -21,6 +21,7 @@ const Recipe = (props) => {
       {props.stepSix ? <h3>Step 6: {props.stepSix}</h3> : null}
       {props.stepSeven ? <h3>Step 7: {props.stepSeven}</h3> : null}
       {props.stepEight ? <h3>Step 8: {props.stepEight}</h3> : null}
+      {props.stepNine ? <h3>Step 9: {props.stepNine}</h3> : null}
     </div>
   )
 }
