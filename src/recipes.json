@@ -182,7 +182,7 @@
       "cookTime": 20,
       "servingSize": 3,
       "ingredients": [
-        "8 oz. Israli couscous",
+        "8 oz. Israeli couscous",
         "8 oz. shrimp peeled and deveined",
         "1 lemon",
         "Paprika",
@@ -260,7 +260,7 @@
         "stepTwo": "Drain spinach, squeeze dry.",
         "stepThree": "Chop feta. Mix feta, cottage cheese and spinach.",
         "stepFour": "Separate eggs, blend yolks, add oil, onion, parsley, and dill. Pour over spinach.",
-        "stepFive": "Fold egg whites into mixture. Put mixture in pan and sprinke pecorino romano on top.",
+        "stepFive": "Fold egg whites into mixture. Put mixture in pan and sprinkle pecorino romano on top.",
         "stepSix": "Top with 7 sheets filo brushed with butter. Slice half way down before baking.",
         "stepSeven": "Bake at 350 degrees for 1 hour or longer until brown.",
         "stepEight": "Let cool."
@@ -533,6 +533,51 @@
         "stepThree": "Sift dry ingredients and add to creamed mixture.",
         "stepFour": "Roll into small balls and dip into sugar.",
         "stepFive": "Bake in the center of a preheated 350 degree oven for 12 minutes."
+      }
+    },
+    {
+      "title": "Cucumber Salad with Seaweed",
+      "chef": "Neema Wandera",
+      "prepTime": 10,
+      "cookTime": 30,
+      "servingSize": 2,
+      "ingredients": [
+        "Seaweed",
+        "Salmon",
+        "1-2 persian cucumbers",
+        "1 1/2 avocados",
+        "1/2 red onion",
+        "Chili oil crisp",
+        "Whipped cream cheese"
+      ],
+      "instructions": {
+        "stepOne": "Cut salmon into small pieces. Season salmon as desired in large mixing bowl. Cook salmon on stove top and set aside.",
+        "stepTwo": "Dice up cucumber, avocado, and onion. Mix whipped cream cheese, chili oil crisp, cucumber, avocado, and onion together. Add seasoning to taste.",
+        "stepThree": "Add salmon to mixture. Scoop salad mix onto seaweed and enjoy!!!"
+      }
+    },
+    {
+      "title": "Bretts Bites Sandwich Cookies",
+      "chef": "Jillian Moran",
+      "prepTime": 40,
+      "cookTime": 10,
+      "servingSize": 20,
+      "ingredients": [
+        "1 cup soft butter",
+        "1/2 cup whipping cream",
+        "2 cups sifted flour",
+        "1/4 cup soft butter (for filling)",
+        "3/4 cup sifted powdered sugar (for filling)",
+        "1 teaspoon vanilla (for filling)"
+      ],
+      "instructions": {
+        "stepOne": "Mix together the ingredients for the cookies until fully combined and CHILL for at least two hours.",
+        "stepTwo": "Once chilled, take 1/3 of the dough out at a time and roll it out on a surface lightly covered with flour until it's about 1 inch thick.",
+        "stepThree": "Cut out circles of dough using a cookie cutter or something of that sort (shot glass, cap).",
+        "stepFour": "Coat both sides of the circles in sugar (granulated or crystallized) and poke each circle 3-4 times with a fork.",
+        "stepFive": "Bake on an ungreased baking sheet for 7-9 minutes at 375 degrees in the oven.",
+        "stepSix": "Let cookies cool before frosting.",
+        "stepSeven": "Mix the frosting ingredients adn put between two cookies and ENJOY!!! Can be eaten right away or stored in the fridge because we prefer them cold."
       }
     }
   ]

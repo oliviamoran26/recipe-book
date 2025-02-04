@@ -1,3 +1,8 @@
+@font-face {
+  font-family: typeWriterFont;
+  src: url(My-Underwood-fontfacekit);
+}
+
 body {
   margin: 0;
   box-sizing: border-box;
@@ -8,14 +13,14 @@ nav {
   display: flex;
   flex-direction: row;
   align-items: center;
-  background-color: white;
+  background-color: #a5a990;
   height: 8vh;
   justify-content: center;
 }
 
 nav div {
   font-size: 30px;
-  font-style: italic;
+  font-family: typeWriterFont;
   color: black;
 }
 
@@ -26,7 +31,28 @@ nav div {
   padding-right: 20px;
   padding-top: 100px;
   display: flex;
-  background-image: url(https://i.pinimg.com/736x/88/2a/4d/882a4d2eedbd5e087c8b96e8935ab521.jpg);
   margin: 17%;
   margin-block-start: 100px;
+  margin-block-end: 100px;
+}
+
+.recipeCard {
+  background-image: url(https://i.pinimg.com/736x/88/2a/4d/882a4d2eedbd5e087c8b96e8935ab521.jpg);
+  object-fit: fill;
+  min-height: 490px;
+  min-width: 750px;
+  display: flex;
+}
+
+.left,
+.right {
+  min-height: 490px;
+}
+
+.left {
+  width: 65%;
+}
+
+.right {
+  width: 35%;
 }
